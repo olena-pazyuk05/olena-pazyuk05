@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Olena 👋
 
 **Data Scientist · ML Engineer · Researcher**  
