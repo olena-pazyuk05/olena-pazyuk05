@@ -13,7 +13,7 @@ Background in Economics · Operations · International Business
 - 💼 Currently working as **Operations Manager & Research Analyst** at Command & Query (NYC, Remote)
 - Actively seeking **Data Scientist / ML Engineer** roles in the Netherlands & Europe
 - Building my portfolio — projects in predictive maintenance, NLP, and time series forecasting
-- 🌍 Languages: Greek · English · Russian · Ukrainian · French
+- 🌍 Languages: Greek · English · Russian · Ukrainian 
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +34,7 @@ Background in Economics · Operations · International Business
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Claude] 
 
 --- 
 
